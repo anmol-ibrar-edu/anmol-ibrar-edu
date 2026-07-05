@@ -132,7 +132,7 @@ me.say_hi()
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anmol-ibrar-edu&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=EAEAEA&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB&theme=react-dark&hide_border=true&background=0D1117&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anmol-ibrar-edu&theme=react-dark&hide_border=true&background=0D1117&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" width="49%" />
 </div>
 
 <div align="center">
@@ -143,12 +143,12 @@ me.say_hi()
 <div align="center">
   
   <!-- Trophy showcase -->
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anmol-ibrar-edu&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
 </div>
 
 <!-- Contribution Snake Animation (see setup steps in Optional Enhancements) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB/YOUR_GITHUB/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/anmol-ibrar-edu/anmol-ibrar-eduB/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 </div>
 
 <br/>
