@@ -13,7 +13,7 @@
 <br/>
 
 <!-- ===================== SOCIAL BADGES ===================== -->
-<!-- Replace YOUR_LINKEDIN, YOUR_EMAIL, YOUR_PORTFOLIO, YOUR_LEETCODE, YOUR_KAGGLE, YOUR_GITHUB below -->
+
 <p>
   <a href="https://www.linkedin.com/in/anmol-ibrar-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -33,7 +33,7 @@
 </p>
 
 <!-- ===================== PROFILE VIEW COUNTER ===================== -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB&label=Profile%20Views&color=00F5D4&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=anmol-ibrar-edu&label=Profile%20Views&color=00F5D4&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
