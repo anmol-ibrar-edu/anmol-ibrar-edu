@@ -148,7 +148,7 @@ me.say_hi()
 
 <!-- Contribution Snake Animation (see setup steps in Optional Enhancements) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/anmol-ibrar-edu/anmol-ibrar-eduB/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/anmol-ibrar-edu/anmol-ibrar-edu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 </div>
 
 <br/>
