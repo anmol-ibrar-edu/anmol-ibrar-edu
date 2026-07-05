@@ -1,21 +1,8 @@
-<!--
-  ============================================================
-  README.md — GitHub Profile for Anmol Ibrar
-  ============================================================
-  HOW TO USE:
-  1. Replace every "YOUR_..." placeholder (usernames, links, emails).
-  2. Create a repo named EXACTLY your GitHub username (e.g. github.com/anmolibrar/anmolibrar)
-     and paste this file in as README.md — that's what makes it show on your profile.
-  3. For the snake animation & stats to work, follow the "Optional Enhancements"
-     section at the bottom (GitHub Actions setup).
-  ============================================================
--->
-
 <div align="center">
 
 <!-- ===================== HERO / WAVE HEADER ===================== -->
 <!-- Replace text after "text=" if you want a different tagline (URL-encoded) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Anmol%20Ibrar&fontSize=60&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20&descColor=EAEAEA" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Anmol%20Ibrar&fontSize=60&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Systems%20Engineer&descAlignY=55&descSize=20&descColor=EAEAEA" width="100%"/>
 
 <!-- ===================== ANIMATED TYPING BANNER ===================== -->
 <!-- Edit the "lines" param below to change the typing text -->
@@ -28,22 +15,19 @@
 <!-- ===================== SOCIAL BADGES ===================== -->
 <!-- Replace YOUR_LINKEDIN, YOUR_EMAIL, YOUR_PORTFOLIO, YOUR_LEETCODE, YOUR_KAGGLE, YOUR_GITHUB below -->
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/anmol-ibrar-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:anmolibrar2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://YOUR_PORTFOLIO.vercel.app">
+  <a href="https://anmol-ibrar-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-00F5D4?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://kaggle.com/YOUR_KAGGLE">
+  <a href="https://www.kaggle.com/anmolabrar">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB">
+  <a href="https://github.com/anmol-ibrar-edu">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
