@@ -130,15 +130,14 @@ me.say_hi()
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Analytics
 
-<!-- Replace YOUR_GITHUB in all three image URLs below -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=EAEAEA&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anmol-ibrar-edu&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=EAEAEA&count_private=true" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB&theme=react-dark&hide_border=true&background=0D1117&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=EAEAEA" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB&theme=react-dark&bg_color=0D1117&color=00F5D4&line=00F5D4&point=EAEAEA&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol-ibrar-edu&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=EAEAEA" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anmol-ibrar-edu&theme=react-dark&bg_color=0D1117&color=00F5D4&line=00F5D4&point=EAEAEA&hide_border=true" width="49%" />
 </div>
 
 <div align="center">
@@ -210,19 +209,8 @@ A Retrieval-Augmented Generation API built with **FastAPI, Supabase (pgvector), 
 ### 🔹 Developer Portfolio Website
 A dark-themed, animated personal portfolio with tabbed navigation, responsive design, and an integrated **EmailJS** contact form.
 
-> 📌 *Replace the above with your actual pinned repositories using GitHub's "Pin repositories" feature for a live, always-updated showcase.*
-
 <br/>
 
-<!-- ===================== CERTIFICATIONS ===================== -->
-## 🏆 Certifications
-
-<!-- Add/remove rows as needed, link each to your credential -->
-- 🎓 [Certification Name — Issuing Platform](#) *(placeholder — replace with your credential link)*
-- 🎓 [Certification Name — Issuing Platform](#)
-- 🎓 [Certification Name — Issuing Platform](#)
-
-<br/>
 
 <!-- ===================== CURRENTLY LEARNING ===================== -->
 ## 🌱 Currently Learning
